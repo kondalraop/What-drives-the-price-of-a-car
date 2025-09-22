@@ -10,6 +10,8 @@ To find the sale price of vehicle for profits, we will investigate past transact
 
 Summary of Findings:
 
+After the initial cleaning of the data, carried out analysis to answer the business question. Most importantly,focused on various regression models capable of predicting the price of a used vehicle. See jupyter notebook: "https://github.com/LudovicBernard98/Practical-Application---What-Drives-the-Price-of-a-Car/blob/main/prompt_II.ipynb" to view the entire workbook.
+
 The general price of a car depends on newer model year, lower odometer readings, and a clean title status. However, the prediction of price becomes more complicated when the different types of vehicles and features are considered.
 
 
